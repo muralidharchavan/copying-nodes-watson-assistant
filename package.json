@@ -1,0 +1,14 @@
+{
+  "name": "merge-skills-wa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "watson-assistant-skills-merger": "^0.2.3"
+  }
+}
