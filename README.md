@@ -80,5 +80,9 @@ $ node app.js
 
 ![upload skill 1](doc/source/images/uploadSkill.png)
 
+- You can now see the node successfully copied in the new skill.
+
+![copied node](doc/source/images/copiedNode.png)
+
 ## References
-Include links to other resources that may be of interest to someone who is reading your tutorial.
+
