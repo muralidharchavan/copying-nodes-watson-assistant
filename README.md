@@ -86,3 +86,5 @@ $ node app.js
 
 ## References
 
+- [watson-assistant-skills-merger](https://github.com/tomiwaog/watson-assistant-skills-merger)
+
